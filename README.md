@@ -1,5 +1,5 @@
 # Matrix-Structural-Analysys_Trusses
-A matrix structural analysis framework developed to solve truss problems (Code in Spanish).
+A matrix structural analysis framework developed in MATLAB to solve truss problems (Code in Spanish).
 
 1. Run the AddPath.m script.
 2. Use the Editor.m script as input file for your truss problem.
